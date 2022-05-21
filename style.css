@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgba(226, 230, 36, 0.829), rgba(107, 112, 6, 0.541))
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: "Courier New", monospace;
+}
+
+h3 {
+    font-family: "Courier New", monospace;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Courier New", monospace;
+    font-size: 20px;    
+}
+
+ul {
+    font-size: 24px;
+    color: white;
+    list-style-type: square;
+}
+
+ol {
+    font-size: 24px;
+    color: white;    
+}
+
+.over {
+    color: black;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+
+div {
+    text-align: center;
+}
+
+ul p {
+    font-size: 30px;
+    color: azure;
+}
